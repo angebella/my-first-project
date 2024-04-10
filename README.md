@@ -6,3 +6,4 @@ STATUS
 ADD
 COMMIT
 ```
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
