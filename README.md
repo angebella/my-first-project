@@ -6,4 +6,4 @@ STATUS
 ADD
 COMMIT
 ```
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+[Contribution guidelines for this project](docs/markdown-cheat-sheet.md)
